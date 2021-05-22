@@ -1,0 +1,38 @@
+.divi {
+    height: 200px;
+    float: left;
+    width: 50%;
+    border: solid 1px black;
+}
+
+.dormitorio {
+    background: white;
+}
+
+.sala {
+    background: white;
+}
+
+.comedor {
+    background: white;
+    clear: left;
+}
+
+.cocina {
+    background: white;
+}
+
+.bg-light {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.btn {
+    display: inline;
+    justify-content: center;
+}
+
+body {
+    background-color: aliceblue;
+}
